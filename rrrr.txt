@@ -27,7 +27,7 @@ https://youtu.be/video_id_2
 https://youtu.be/video_id_3
 
 
-$env:HF_TOKEN="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"
+
 
 python quran_speaker_pipeline.py `
   --urls-file links.txt `
@@ -42,7 +42,7 @@ flutter pub get
 flutter run -d chrome     
 
 Get-Content .\links.txt | Set-Content .\links_utf8.txt -Encoding utf8
-$env:HF_TOKEN="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"
+
 python quran_speaker_pipeline.py `
   --urls-file links.txt `
   --competition-id makkah `
