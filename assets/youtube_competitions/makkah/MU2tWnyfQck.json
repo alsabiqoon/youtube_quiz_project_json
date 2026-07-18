@@ -1,0 +1,31 @@
+{
+  "competitionId": "makkah",
+  "competition": "مسابقة الملك عبدالعزيز الدولية 2025",
+  "episodeId": "makkah_MU2tWnyfQck",
+  "episodeTitle": "الحلقة الثانية",
+  "contestant": "",
+  "videoId": "MU2tWnyfQck",
+  "questions": [
+    {
+      "id": 1,
+      "questionStart": 66,
+      "questionEnd": 91,
+      "answerStart": 93,
+      "answerEnd": 367
+    },
+    {
+      "id": 2,
+      "questionStart": 367,
+      "questionEnd": 392,
+      "answerStart": 394,
+      "answerEnd": 1127
+    },
+    {
+      "id": 3,
+      "questionStart": 1127,
+      "questionEnd": 1155,
+      "answerStart": 1157,
+      "answerEnd": 1368
+    }
+  ]
+}

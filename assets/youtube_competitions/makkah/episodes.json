@@ -8,6 +8,34 @@
       "contestant": "",
       "videoId": "1hUus-Qjo-U",
       "jsonFile": "assets/youtube_competitions/makkah/1hUus-Qjo-U.json"
+    },
+    {
+      "id": "makkah_MU2tWnyfQck",
+      "title": "الحلقة الثانية",
+      "contestant": "",
+      "videoId": "MU2tWnyfQck",
+      "jsonFile": "assets/youtube_competitions/makkah/MU2tWnyfQck.json"
+    },
+    {
+      "id": "makkah_naeIVd5tNzI",
+      "title": "الحلقة الثالثة",
+      "contestant": "",
+      "videoId": "naeIVd5tNzI",
+      "jsonFile": "assets/youtube_competitions/makkah/naeIVd5tNzI.json"
+    },
+    {
+      "id": "makkah_2QIlqdivv2s",
+      "title": "الحلقة الرابعة",
+      "contestant": "",
+      "videoId": "2QIlqdivv2s",
+      "jsonFile": "assets/youtube_competitions/makkah/2QIlqdivv2s.json"
+    },
+    {
+      "id": "makkah_iDjuy0ruJbA",
+      "title": "الحلقة الخامسة",
+      "contestant": "",
+      "videoId": "iDjuy0ruJbA",
+      "jsonFile": "assets/youtube_competitions/makkah/iDjuy0ruJbA.json"
     }
   ]
 }

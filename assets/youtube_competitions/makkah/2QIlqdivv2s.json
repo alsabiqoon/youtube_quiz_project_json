@@ -1,0 +1,24 @@
+{
+  "competitionId": "makkah",
+  "competition": "مسابقة الملك عبدالعزيز الدولية 2025",
+  "episodeId": "makkah_2QIlqdivv2s",
+  "episodeTitle": "الحلقة الرابعة",
+  "contestant": "",
+  "videoId": "2QIlqdivv2s",
+  "questions": [
+    {
+      "id": 1,
+      "questionStart": 455,
+      "questionEnd": 493,
+      "answerStart": 495,
+      "answerEnd": 725
+    },
+    {
+      "id": 2,
+      "questionStart": 742,
+      "questionEnd": 781,
+      "answerStart": 783,
+      "answerEnd": 1690
+    }
+  ]
+}

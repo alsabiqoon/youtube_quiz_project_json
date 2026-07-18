@@ -1,0 +1,24 @@
+{
+  "competitionId": "makkah",
+  "competition": "مسابقة الملك عبدالعزيز الدولية 2025",
+  "episodeId": "makkah_iDjuy0ruJbA",
+  "episodeTitle": "الحلقة الخامسة",
+  "contestant": "",
+  "videoId": "iDjuy0ruJbA",
+  "questions": [
+    {
+      "id": 1,
+      "questionStart": 75,
+      "questionEnd": 106,
+      "answerStart": 108,
+      "answerEnd": 1243
+    },
+    {
+      "id": 2,
+      "questionStart": 1244,
+      "questionEnd": 1300,
+      "answerStart": 1302,
+      "answerEnd": 1559
+    }
+  ]
+}
