@@ -1,0 +1,20 @@
+name: youtube_quiz_project
+description: Simple YouTube Quran quiz prototype with local sample JSON.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  youtube_player_iframe: ^5.2.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/youtube_competitions/competitions_index.json
+    - assets/youtube_competitions/dubai/
+    - assets/youtube_competitions/iraq/
+    - assets/youtube_competitions/makkah/

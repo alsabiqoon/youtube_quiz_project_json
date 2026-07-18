@@ -1,0 +1,36 @@
+{
+  "competitionId": "dubai",
+  "competition": "مسابقة دبي الدولية للقرآن الكريم",
+  "episodes": [
+    {
+      "id": "dubai_001",
+      "title": "الحلقة الأولى",
+      "contestant": "متسابق ماليزيا",
+      "jsonFile": "assets/youtube_competitions/dubai/M4jdqYrdRzE.json"
+    },
+    {
+      "id": "dubai_002",
+      "title": "الحلقة الثانية",
+      "contestant": "متسابق آخر",
+      "jsonFile": "assets/youtube_competitions/dubai/2HSz8xToUuM.json"
+    },
+    {
+      "id": "dubai_003",
+      "title": "الحلقة الثالثة",
+      "contestant": "متسابق آخر",
+      "jsonFile": "assets/youtube_competitions/dubai/9SFb1USPnbs.json"
+    },
+    {
+      "id": "dubai_004",
+      "title": "الحلقة الرابعة",
+      "contestant": "متسابق آخر",
+      "jsonFile": "assets/youtube_competitions/dubai/fLRz2L6LISM.json"
+    },
+    {
+      "id": "dubai_005",
+      "title": "الحلقة الخامسة",
+      "contestant": "متسابق آخر",
+      "jsonFile": "assets/youtube_competitions/dubai/y5yd7b2AZnE.json"
+    }
+  ]
+}

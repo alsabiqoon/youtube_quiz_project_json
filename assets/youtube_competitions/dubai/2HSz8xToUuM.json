@@ -1,0 +1,34 @@
+{
+  "competition": "Dubai Quran Competition",
+  "videoId": "2HSz8xToUuM",
+  "questions": [
+    {
+      "id": 1,
+      "questionStart": 51,
+      "questionEnd": 227,
+      "answerStart": 229,
+      "answerEnd": 275
+    },
+    {
+      "id": 2,
+      "questionStart": 289,
+      "questionEnd": 314,
+      "answerStart": 316,
+      "answerEnd": 471
+    },
+    {
+      "id": 3,
+      "questionStart": 473,
+      "questionEnd": 501,
+      "answerStart": 503,
+      "answerEnd": 688
+    },
+    {
+      "id": 4,
+      "questionStart": 689,
+      "questionEnd": 717,
+      "answerStart": 719,
+      "answerEnd": 1115
+    }
+  ]
+}

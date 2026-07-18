@@ -1,0 +1,62 @@
+{
+  "competitionId": "dubai",
+  "competition": "مسابقة دبي الدولية للقرآن الكريم",
+  "episodes": [
+    {
+      "id": "dubai_001",
+      "title": "الحلقة الأولى",
+      "contestant": "",
+      "jsonFile": "assets/youtube_competitions/dubai/M4jdqYrdRzE.json",
+      "videoId": "M4jdqYrdRzE"
+    },
+    {
+      "id": "dubai_002",
+      "title": "الحلقة الثانية",
+      "contestant": "",
+      "jsonFile": "assets/youtube_competitions/dubai/2HSz8xToUuM.json",
+      "videoId": "2HSz8xToUuM"
+    },
+    {
+      "id": "dubai_003",
+      "title": "الحلقة الثالثة",
+      "contestant": "",
+      "jsonFile": "assets/youtube_competitions/dubai/9SFb1USPnbs.json",
+      "videoId": "9SFb1USPnbs"
+    },
+    {
+      "id": "dubai_004",
+      "title": "الحلقة الرابعة",
+      "contestant": "",
+      "jsonFile": "assets/youtube_competitions/dubai/fLRz2L6LISM.json",
+      "videoId": "fLRz2L6LISM"
+    },
+    {
+      "id": "dubai_005",
+      "title": "الحلقة الخامسة",
+      "contestant": "",
+      "jsonFile": "assets/youtube_competitions/dubai/y5yd7b2AZnE.json",
+      "videoId": "y5yd7b2AZnE"
+    },
+    {
+      "id": "dubai_006",
+      "title": "الحلقة السادسة",
+      "contestant": "",
+      "videoId": "DFILAeyIcT4",
+      "jsonFile": "assets/youtube_competitions/dubai/DFILAeyIcT4.json"
+    },
+    {
+      "id": "dubai_007",
+      "title": "الحلقة السابعة",
+      "contestant": "",
+      "videoId": "atOI7Ebg6fo",
+      "jsonFile": "assets/youtube_competitions/dubai/atOI7Ebg6fo.json"
+    },
+    {
+      "id": "dubai_008",
+      "title": "الحلقة الثامنة",
+      "contestant": "",
+      "videoId": "j0FO5Ty9U5k",
+      "jsonFile": "assets/youtube_competitions/dubai/j0FO5Ty9U5k.json"
+    }
+  ]
+}

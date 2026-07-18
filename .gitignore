@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+whisper_env/
+venv/
+.env/
+
+# Flutter
+.dart_tool/
+build/
+
+# Generated files
+outputs/
+lib/
+web/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
+audio_cache/
+*.wav
+.flutter-plugins-dependencies

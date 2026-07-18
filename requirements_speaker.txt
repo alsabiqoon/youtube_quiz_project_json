@@ -1,0 +1,4 @@
+yt-dlp
+whisperx
+torch
+torchaudio

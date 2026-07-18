@@ -1,0 +1,19 @@
+{
+    "competitions": [
+      {
+        "id": "dubai",
+        "name": "مسابقة دبي الدولية للقرآن الكريم",
+        "episodesFile": "assets/youtube_competitions/dubai/episodes.json"
+      },
+      {
+        "id": "makkah",
+        "name": "مسابقة مكة المكرمة للقرآن الكريم",
+        "episodesFile": "assets/youtube_competitions/makkah/episodes.json"
+      },
+      {
+        "id": "iraq",
+        "name": "مسابقة العراق للقرآن الكريم",
+        "episodesFile": "assets/youtube_competitions/iraq/episodes.json"
+      }
+    ]
+  }

@@ -1,0 +1,53 @@
+
+.\whisper_env\Scripts\Activate.ps1
+
+yt-dlp --flat-playlist `
+  --print "https://www.youtube.com/watch?v=%(id)s" `
+  "https://www.youtube.com/playlist?list=PLtIZ3bQfpU7JLpXqe-stxYG4frUfG_W5C" `
+  > links.txt
+
+  Get-Content .\links.txt |
+Set-Content .\links_utf8.txt -Encoding utf8
+
+
+
+yt-dlp --flat-playlist `
+  --print "https://www.youtube.com/watch?v=%(id)s" `
+  "https://www.youtube.com/playlist?list=PLPIpw-RvF3GYM8v7ihoW8kEUA6eBDZ1hy" `
+  > links.txt
+
+  Get-Content .\links.txt |
+Set-Content .\links_utf8.txt -Encoding utf8
+
+
+
+
+https://youtu.be/video_id_1
+https://youtu.be/video_id_2
+https://youtu.be/video_id_3
+
+
+$env:HF_TOKEN="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"
+
+python quran_speaker_pipeline.py `
+  --urls-file links.txt `
+  --competition-id dubai `
+  --competition-name "مسابقة دبي الدولية للقرآن الكريم" `
+  --output-dir assets/youtube_competitions `
+  --model tiny
+
+
+flutter clean
+flutter pub get
+flutter run -d chrome     
+
+Get-Content .\links.txt | Set-Content .\links_utf8.txt -Encoding utf8
+$env:HF_TOKEN="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"
+python quran_speaker_pipeline.py `
+  --urls-file links.txt `
+  --competition-id makkah `
+  --competition-name "مسابقة الملك عبدالعزيز الدولية 2025" `
+  --output-dir assets/youtube_competitions `
+  --model tiny
+
+

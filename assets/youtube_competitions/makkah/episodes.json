@@ -1,0 +1,13 @@
+{
+  "competitionId": "makkah",
+  "competition": "مسابقة الملك عبدالعزيز الدولية 2025",
+  "episodes": [
+    {
+      "id": "makkah_1hUus-Qjo-U",
+      "title": "الحلقة الأولى",
+      "contestant": "",
+      "videoId": "1hUus-Qjo-U",
+      "jsonFile": "assets/youtube_competitions/makkah/1hUus-Qjo-U.json"
+    }
+  ]
+}

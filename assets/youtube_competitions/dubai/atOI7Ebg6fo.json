@@ -1,0 +1,31 @@
+{
+  "competitionId": "dubai",
+  "competition": "مسابقة دبي الدولية للقرآن الكريم",
+  "episodeId": "dubai_atOI7Ebg6fo",
+  "episodeTitle": "الحلقة السابعة",
+  "contestant": "",
+  "videoId": "atOI7Ebg6fo",
+  "questions": [
+    {
+      "id": 1,
+      "questionStart": 60,
+      "questionEnd": 244,
+      "answerStart": 246,
+      "answerEnd": 350
+    },
+    {
+      "id": 2,
+      "questionStart": 353,
+      "questionEnd": 372,
+      "answerStart": 374,
+      "answerEnd": 917
+    },
+    {
+      "id": 3,
+      "questionStart": 922,
+      "questionEnd": 946,
+      "answerStart": 948,
+      "answerEnd": 1161
+    }
+  ]
+}

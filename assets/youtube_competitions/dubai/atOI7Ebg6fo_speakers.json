@@ -1,0 +1,5566 @@
+[
+  {
+    "start": 0.35,
+    "end": 12.89,
+    "speaker": "SPEAKER_01",
+    "text": "المتسابق الأخير في هذه الجلسة حافظ القرآن أساد الله سعد بعدالوا من السراليا ويقرى وبريوية حفسنا عن عاسم",
+    "words": [
+      {
+        "word": "المتسابق",
+        "start": 0.352,
+        "end": 1.253,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "الأخير",
+        "start": 1.293,
+        "end": 2.195,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "في",
+        "start": 2.255,
+        "end": 2.375,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "هذه",
+        "start": 2.435,
+        "end": 2.776,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "الجلسة",
+        "start": 2.816,
+        "end": 3.397,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "حافظ",
+        "start": 3.598,
+        "end": 4.098,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "القرآن",
+        "start": 4.139,
+        "end": 5.441,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "أساد",
+        "start": 5.541,
+        "end": 5.962,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "الله",
+        "start": 5.982,
+        "end": 6.463,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "سعد",
+        "start": 6.563,
+        "end": 7.044,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "بعدالوا",
+        "start": 7.164,
+        "end": 8.306,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "من",
+        "start": 8.406,
+        "end": 8.587,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "السراليا",
+        "start": 8.607,
+        "end": 10.39,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "ويقرى",
+        "start": 10.47,
+        "end": 11.011,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "وبريوية",
+        "start": 11.031,
+        "end": 11.753,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "حفسنا",
+        "start": 11.833,
+        "end": 12.213,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "عن",
+        "start": 12.274,
+        "end": 12.434,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "عاسم",
+        "start": 12.494,
+        "end": 12.895,
+        "speaker": "SPEAKER_01"
+      }
+    ]
+  },
+  {
+    "start": 60.66,
+    "end": 83.21,
+    "speaker": "SPEAKER_02",
+    "text": "أسؤال أول وأتن سأصد قاته النحلة أهوذ بالله من الشيطان الراجيم بسم الله الرحمن الرحيم",
+    "words": [
+      {
+        "word": "أسؤال",
+        "start": 60.662,
+        "end": 61.122,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "أول",
+        "start": 61.222,
+        "end": 62.883,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "وأتن",
+        "start": 63.003,
+        "end": 63.843,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "سأصد",
+        "start": 64.643,
+        "end": 66.683,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "قاته",
+        "start": 66.823,
+        "end": 68.544,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "النحلة",
+        "start": 68.564,
+        "end": 71.524,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "أهوذ",
+        "start": 71.684,
+        "end": 72.445,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "بالله",
+        "start": 72.545,
+        "end": 73.505,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "من",
+        "start": 73.585,
+        "end": 73.905,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "الشيطان",
+        "start": 73.965,
+        "end": 75.345,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "الراجيم",
+        "start": 75.385,
+        "end": 77.286,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "بسم",
+        "start": 78.766,
+        "end": 79.326,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "الله",
+        "start": 79.366,
+        "end": 80.306,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "الرحمن",
+        "start": 80.366,
+        "end": 81.787,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "الرحيم",
+        "start": 81.827,
+        "end": 83.207,
+        "speaker": "SPEAKER_02"
+      }
+    ]
+  },
+  {
+    "start": 85.79,
+    "end": 111.36,
+    "speaker": "SPEAKER_02",
+    "text": "وأتن سأصد قاته النحلة فإن طبنا لكم مع الشيء منه نفسه فكله فكله حاني أن مريأ",
+    "words": [
+      {
+        "word": "وأتن",
+        "start": 85.788,
+        "end": 87.729,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "سأصد",
+        "start": 87.949,
+        "end": 90.631,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "قاته",
+        "start": 90.771,
+        "end": 92.452,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "النحلة",
+        "start": 92.592,
+        "end": 94.634,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "فإن",
+        "start": 94.754,
+        "end": 95.554,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "طبنا",
+        "start": 96.275,
+        "end": 96.895,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "لكم",
+        "start": 96.955,
+        "end": 97.595,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "مع",
+        "start": 97.615,
+        "end": 97.835,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "الشيء",
+        "start": 97.996,
+        "end": 99.717,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "منه",
+        "start": 100.597,
+        "end": 101.258,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "نفسه",
+        "start": 101.318,
+        "end": 102.678,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "فكله",
+        "start": 102.779,
+        "end": 105.94,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "فكله",
+        "start": 106.081,
+        "end": 107.181,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "حاني",
+        "start": 107.261,
+        "end": 108.822,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "أن",
+        "start": 108.922,
+        "end": 109.082,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "مريأ",
+        "start": 109.943,
+        "end": 111.364,
+        "speaker": "SPEAKER_02"
+      }
+    ]
+  },
+  {
+    "start": 113.47,
+    "end": 136.93,
+    "speaker": "SPEAKER_02",
+    "text": "ولات التصفها أم ولكم للتي جعل الله لكم جعل الله لكم قياما ورزقهم فيها وكسهم وقولهم قول مرواف",
+    "words": [
+      {
+        "word": "ولات",
+        "start": 113.465,
+        "end": 114.026,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "التصفها",
+        "start": 114.146,
+        "end": 117.869,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "أم",
+        "start": 118.15,
+        "end": 118.55,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "ولكم",
+        "start": 118.63,
+        "end": 119.691,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "للتي",
+        "start": 119.991,
+        "end": 120.612,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "جعل",
+        "start": 120.692,
+        "end": 121.333,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "الله",
+        "start": 121.373,
+        "end": 122.274,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "لكم",
+        "start": 122.354,
+        "end": 122.914,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "جعل",
+        "start": 124.596,
+        "end": 125.176,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "الله",
+        "start": 125.216,
+        "end": 126.037,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "لكم",
+        "start": 126.097,
+        "end": 126.658,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "قياما",
+        "start": 126.778,
+        "end": 128.299,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "ورزقهم",
+        "start": 128.379,
+        "end": 129.821,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "فيها",
+        "start": 129.961,
+        "end": 130.782,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "وكسهم",
+        "start": 130.862,
+        "end": 132.143,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "وقولهم",
+        "start": 132.223,
+        "end": 133.965,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "قول",
+        "start": 134.125,
+        "end": 134.845,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "مرواف",
+        "start": 135.826,
+        "end": 136.927,
+        "speaker": "SPEAKER_02"
+      }
+    ]
+  },
+  {
+    "start": 146.8,
+    "end": 168.31,
+    "speaker": "SPEAKER_02",
+    "text": "وبتل يتم حتى إذا بل رنكا فإن أنا استن منه رسدا وبتل يتم حتى إذا بل رنكا",
+    "words": [
+      {
+        "word": "وبتل",
+        "start": 146.798,
+        "end": 147.819,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "يتم",
+        "start": 147.919,
+        "end": 148.919,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "حتى",
+        "start": 149.039,
+        "end": 150.64,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "إذا",
+        "start": 150.72,
+        "end": 151.261,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "بل",
+        "start": 151.381,
+        "end": 152.001,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "رنكا",
+        "start": 152.021,
+        "end": 155.503,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "فإن",
+        "start": 155.603,
+        "end": 156.144,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "أنا",
+        "start": 156.224,
+        "end": 156.724,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "استن",
+        "start": 156.744,
+        "end": 157.424,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "منه",
+        "start": 157.925,
+        "end": 158.505,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "رسدا",
+        "start": 158.585,
+        "end": 159.365,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "وبتل",
+        "start": 163.668,
+        "end": 164.629,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "يتم",
+        "start": 164.729,
+        "end": 165.669,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "حتى",
+        "start": 165.769,
+        "end": 167.01,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "إذا",
+        "start": 167.09,
+        "end": 167.59,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "بل",
+        "start": 167.69,
+        "end": 167.971,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "رنكا",
+        "start": 168.171,
+        "end": 168.311,
+        "speaker": "SPEAKER_02"
+      }
+    ]
+  },
+  {
+    "start": 172.47,
+    "end": 191.96,
+    "speaker": "SPEAKER_01",
+    "text": "فإن آناستن منه رشدًا فإن آناستن منه رشدًا فدفعوا إليهم أموالهم",
+    "words": [
+      {
+        "word": "فإن",
+        "start": 172.475,
+        "end": 173.015,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "آناستن",
+        "start": 173.115,
+        "end": 174.416,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "منه",
+        "start": 175.076,
+        "end": 175.656,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "رشدًا",
+        "start": 175.716,
+        "end": 182.259,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "فإن",
+        "start": 182.379,
+        "end": 183.299,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "آناستن",
+        "start": 183.319,
+        "end": 185.06,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "منه",
+        "start": 185.14,
+        "end": 186.081,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "رشدًا",
+        "start": 186.161,
+        "end": 187.561,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "فدفعوا",
+        "start": 187.641,
+        "end": 189.302,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "إليهم",
+        "start": 189.382,
+        "end": 190.402,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "أموالهم",
+        "start": 190.482,
+        "end": 191.963,
+        "speaker": "SPEAKER_01"
+      }
+    ]
+  },
+  {
+    "start": 193.98,
+    "end": 215.75,
+    "speaker": "SPEAKER_02",
+    "text": "وبتل يتم حتى إذا بلغنك فإن آنست منهم رشد فدفعوا إليهم أم وعلىهم ولا تقولها إصرافوا وبدارا أي يكبروا",
+    "words": [
+      {
+        "word": "وبتل",
+        "start": 193.977,
+        "end": 194.858,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "يتم",
+        "start": 194.958,
+        "end": 195.898,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "حتى",
+        "start": 196.018,
+        "end": 197.219,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "إذا",
+        "start": 197.299,
+        "end": 197.719,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "بلغنك",
+        "start": 197.819,
+        "end": 200.701,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "فإن",
+        "start": 200.781,
+        "end": 201.281,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "آنست",
+        "start": 201.341,
+        "end": 202.462,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "منهم",
+        "start": 202.862,
+        "end": 203.542,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "رشد",
+        "start": 203.622,
+        "end": 204.703,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "فدفعوا",
+        "start": 204.783,
+        "end": 206.044,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "إليهم",
+        "start": 206.104,
+        "end": 206.904,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "أم",
+        "start": 206.964,
+        "end": 207.285,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "وعلىهم",
+        "start": 207.365,
+        "end": 208.925,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "ولا",
+        "start": 209.046,
+        "end": 209.486,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "تقولها",
+        "start": 209.606,
+        "end": 211.547,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "إصرافوا",
+        "start": 211.627,
+        "end": 213.028,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "وبدارا",
+        "start": 213.108,
+        "end": 214.168,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "أي",
+        "start": 214.268,
+        "end": 214.829,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "يكبروا",
+        "start": 214.929,
+        "end": 215.749,
+        "speaker": "SPEAKER_02"
+      }
+    ]
+  },
+  {
+    "start": 217.17,
+    "end": 238.71,
+    "speaker": "SPEAKER_02",
+    "text": "ومن كان غنيا فل يستعفف ومن كان فقيرا فل يكل بالمعروف فإذا دفعة إليهم أم ولاهم فأشهد وعليهم وكفاب الله حسيب",
+    "words": [
+      {
+        "word": "ومن",
+        "start": 217.17,
+        "end": 218.071,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "كان",
+        "start": 218.191,
+        "end": 218.711,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "غنيا",
+        "start": 218.772,
+        "end": 220.013,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "فل",
+        "start": 220.113,
+        "end": 220.353,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "يستعفف",
+        "start": 220.533,
+        "end": 222.315,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "ومن",
+        "start": 222.415,
+        "end": 223.275,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "كان",
+        "start": 223.395,
+        "end": 223.876,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "فقيرا",
+        "start": 223.956,
+        "end": 225.357,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "فل",
+        "start": 225.457,
+        "end": 225.697,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "يكل",
+        "start": 225.858,
+        "end": 226.678,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "بالمعروف",
+        "start": 226.738,
+        "end": 229.16,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "فإذا",
+        "start": 229.261,
+        "end": 229.921,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "دفعة",
+        "start": 230.021,
+        "end": 230.942,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "إليهم",
+        "start": 231.002,
+        "end": 231.883,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "أم",
+        "start": 231.943,
+        "end": 232.283,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "ولاهم",
+        "start": 232.343,
+        "end": 233.244,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "فأشهد",
+        "start": 233.344,
+        "end": 234.285,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "وعليهم",
+        "start": 234.305,
+        "end": 236.046,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "وكفاب",
+        "start": 236.146,
+        "end": 237.107,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "الله",
+        "start": 237.127,
+        "end": 237.828,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "حسيب",
+        "start": 237.968,
+        "end": 238.709,
+        "speaker": "SPEAKER_02"
+      }
+    ]
+  },
+  {
+    "start": 240.39,
+    "end": 261.67,
+    "speaker": "SPEAKER_00",
+    "text": "لرجال نصيب منما تراكل والدان والأقربون والنساء نصيب منما تراكل والدان والأقربون منما قل لمنه أو كثور",
+    "words": [
+      {
+        "word": "لرجال",
+        "start": 240.39,
+        "end": 241.451,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "نصيب",
+        "start": 241.511,
+        "end": 242.432,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "منما",
+        "start": 243.233,
+        "end": 244.354,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "تراكل",
+        "start": 244.474,
+        "end": 245.034,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "والدان",
+        "start": 245.275,
+        "end": 246.416,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "والأقربون",
+        "start": 246.476,
+        "end": 249.058,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "والنساء",
+        "start": 249.178,
+        "end": 251.861,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "نصيب",
+        "start": 251.901,
+        "end": 252.922,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "منما",
+        "start": 253.602,
+        "end": 254.623,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "تراكل",
+        "start": 254.743,
+        "end": 255.484,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "والدان",
+        "start": 255.564,
+        "end": 256.725,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "والأقربون",
+        "start": 256.785,
+        "end": 258.287,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "منما",
+        "start": 258.367,
+        "end": 259.468,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "قل",
+        "start": 259.648,
+        "end": 260.148,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "لمنه",
+        "start": 260.168,
+        "end": 260.769,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "أو",
+        "start": 260.829,
+        "end": 261.109,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "كثور",
+        "start": 261.209,
+        "end": 261.67,
+        "speaker": "SPEAKER_00"
+      }
+    ]
+  },
+  {
+    "start": 265.44,
+    "end": 292.06,
+    "speaker": "SPEAKER_00",
+    "text": "لرجاد نصيباً لرجاد نصيباً لرجال نصيباً منما تراكل والدان والأخربون والنساء نصيباً منما تراكل والدان والأخربون منما قل منه أول كثور",
+    "words": [
+      {
+        "word": "لرجاد",
+        "start": 265.44,
+        "end": 266.06,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "نصيباً",
+        "start": 266.08,
+        "end": 266.601,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "لرجاد",
+        "start": 269.062,
+        "end": 269.783,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "نصيباً",
+        "start": 269.843,
+        "end": 270.423,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "لرجال",
+        "start": 271.524,
+        "end": 272.565,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "نصيباً",
+        "start": 272.645,
+        "end": 273.525,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "منما",
+        "start": 274.226,
+        "end": 275.287,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "تراكل",
+        "start": 275.387,
+        "end": 276.107,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "والدان",
+        "start": 276.167,
+        "end": 277.268,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "والأخربون",
+        "start": 277.308,
+        "end": 280.01,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "والنساء",
+        "start": 280.11,
+        "end": 282.872,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "نصيباً",
+        "start": 282.892,
+        "end": 283.812,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "منما",
+        "start": 284.373,
+        "end": 285.333,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "تراكل",
+        "start": 285.433,
+        "end": 286.174,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "والدان",
+        "start": 286.234,
+        "end": 287.335,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "والأخربون",
+        "start": 287.395,
+        "end": 288.816,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "منما",
+        "start": 288.916,
+        "end": 289.916,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "قل",
+        "start": 290.077,
+        "end": 290.557,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "منه",
+        "start": 290.637,
+        "end": 291.177,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "أول",
+        "start": 291.237,
+        "end": 291.498,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "كثور",
+        "start": 291.598,
+        "end": 292.058,
+        "speaker": "SPEAKER_00"
+      }
+    ]
+  },
+  {
+    "start": 293.31,
+    "end": 307.7,
+    "speaker": "SPEAKER_00",
+    "text": "نصيب مفرودة وإذا حضر القسمة ان القربة واليتما والمساكين فرزقهم منه قوله لهم",
+    "words": [
+      {
+        "word": "نصيب",
+        "start": 293.314,
+        "end": 294.135,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "مفرودة",
+        "start": 294.937,
+        "end": 296.82,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "وإذا",
+        "start": 296.88,
+        "end": 297.501,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "حضر",
+        "start": 297.641,
+        "end": 298.162,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "القسمة",
+        "start": 298.202,
+        "end": 298.943,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ان",
+        "start": 299.204,
+        "end": 299.564,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "القربة",
+        "start": 299.584,
+        "end": 300.526,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "واليتما",
+        "start": 300.606,
+        "end": 301.928,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "والمساكين",
+        "start": 302.008,
+        "end": 303.551,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "فرزقهم",
+        "start": 303.651,
+        "end": 304.933,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "منه",
+        "start": 305.554,
+        "end": 306.075,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "قوله",
+        "start": 306.376,
+        "end": 307.097,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "لهم",
+        "start": 307.177,
+        "end": 307.698,
+        "speaker": "SPEAKER_00"
+      }
+    ]
+  },
+  {
+    "start": 309.62,
+    "end": 332.19,
+    "speaker": "SPEAKER_00",
+    "text": "وقلوا لهم قول معرفة وليخش الذين لو ترق من خلفهم ضرية وضع فنخاف وعليهم فل يتقل الله وليقوا لقول سديدة",
+    "words": [
+      {
+        "word": "وقلوا",
+        "start": 309.615,
+        "end": 310.516,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "لهم",
+        "start": 310.576,
+        "end": 311.076,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "قول",
+        "start": 311.196,
+        "end": 311.857,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "معرفة",
+        "start": 313.038,
+        "end": 315.179,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "وليخش",
+        "start": 315.319,
+        "end": 316.28,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الذين",
+        "start": 316.32,
+        "end": 317.281,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "لو",
+        "start": 317.361,
+        "end": 317.661,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ترق",
+        "start": 317.761,
+        "end": 318.521,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "من",
+        "start": 318.581,
+        "end": 318.882,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "خلفهم",
+        "start": 318.982,
+        "end": 319.922,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ضرية",
+        "start": 320.002,
+        "end": 321.403,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "وضع",
+        "start": 321.644,
+        "end": 322.885,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "فنخاف",
+        "start": 323.005,
+        "end": 323.945,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "وعليهم",
+        "start": 324.025,
+        "end": 326.067,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "فل",
+        "start": 326.167,
+        "end": 326.507,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "يتقل",
+        "start": 326.587,
+        "end": 327.368,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الله",
+        "start": 327.408,
+        "end": 328.148,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "وليقوا",
+        "start": 328.228,
+        "end": 329.609,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "لقول",
+        "start": 329.629,
+        "end": 331.251,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "سديدة",
+        "start": 331.411,
+        "end": 332.191,
+        "speaker": "SPEAKER_00"
+      }
+    ]
+  },
+  {
+    "start": 333.47,
+    "end": 350.74,
+    "speaker": "SPEAKER_00",
+    "text": "إن الذين يقولون أم ولا يتماظل من إنما يقولون في بطونهم نارا وسيصلاون سعيرا حسبك",
+    "words": [
+      {
+        "word": "إن",
+        "start": 333.472,
+        "end": 334.493,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الذين",
+        "start": 334.513,
+        "end": 335.533,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "يقولون",
+        "start": 335.593,
+        "end": 336.754,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "أم",
+        "start": 336.834,
+        "end": 337.174,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ولا",
+        "start": 337.254,
+        "end": 337.955,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "يتماظل",
+        "start": 338.075,
+        "end": 339.536,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "من",
+        "start": 339.616,
+        "end": 339.956,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "إنما",
+        "start": 340.036,
+        "end": 341.877,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "يقولون",
+        "start": 341.977,
+        "end": 343.098,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "في",
+        "start": 343.218,
+        "end": 343.518,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "بطونهم",
+        "start": 343.618,
+        "end": 344.739,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "نارا",
+        "start": 344.899,
+        "end": 346.84,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "وسيصلاون",
+        "start": 347.04,
+        "end": 348.621,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "سعيرا",
+        "start": 348.741,
+        "end": 350.162,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "حسبك",
+        "start": 350.282,
+        "end": 350.743,
+        "speaker": "SPEAKER_02"
+      }
+    ]
+  },
+  {
+    "start": 353.33,
+    "end": 354.23,
+    "speaker": "SPEAKER_01",
+    "text": "21. أسؤال الثاني",
+    "words": [
+      {
+        "word": "21.",
+        "start": 353.33,
+        "end": 353.511,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "أسؤال",
+        "start": 353.531,
+        "end": 353.851,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "الثاني",
+        "start": 353.891,
+        "end": 354.231,
+        "speaker": "SPEAKER_01"
+      }
+    ]
+  },
+  {
+    "start": 373.85,
+    "end": 390.72,
+    "speaker": "SPEAKER_00",
+    "text": "يأمرون بالمكري و ينهون عن المعروف و يقببون أيديهم. نس الله فنس يهم إن المنافقينهم الفاسقون",
+    "words": [
+      {
+        "word": "يأمرون",
+        "start": 373.845,
+        "end": 374.866,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "بالمكري",
+        "start": 374.946,
+        "end": 376.687,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "و",
+        "start": 376.747,
+        "end": 376.807,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ينهون",
+        "start": 376.927,
+        "end": 377.728,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "عن",
+        "start": 377.848,
+        "end": 378.168,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "المعروف",
+        "start": 378.208,
+        "end": 379.449,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "و",
+        "start": 379.509,
+        "end": 379.569,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "يقببون",
+        "start": 379.709,
+        "end": 380.89,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "أيديهم.",
+        "start": 380.95,
+        "end": 382.851,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "نس",
+        "start": 382.971,
+        "end": 383.292,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الله",
+        "start": 383.312,
+        "end": 384.032,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "فنس",
+        "start": 384.112,
+        "end": 384.613,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "يهم",
+        "start": 384.733,
+        "end": 385.833,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "إن",
+        "start": 385.933,
+        "end": 386.734,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "المنافقينهم",
+        "start": 386.774,
+        "end": 388.675,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الفاسقون",
+        "start": 388.715,
+        "end": 390.717,
+        "speaker": "SPEAKER_00"
+      }
+    ]
+  },
+  {
+    "start": 392.08,
+    "end": 411.1,
+    "speaker": "SPEAKER_00",
+    "text": "وعد الله المنافقين والمنافقات والكفف رنا رجه النمخ لذين فيها يحسبهم ولا عنهم الله ولهم عذاب مقيم",
+    "words": [
+      {
+        "word": "وعد",
+        "start": 392.083,
+        "end": 392.604,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الله",
+        "start": 392.644,
+        "end": 393.384,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "المنافقين",
+        "start": 393.424,
+        "end": 394.946,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "والمنافقات",
+        "start": 395.006,
+        "end": 396.768,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "والكفف",
+        "start": 396.828,
+        "end": 397.889,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "رنا",
+        "start": 397.969,
+        "end": 398.449,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "رجه",
+        "start": 398.569,
+        "end": 399.15,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "النمخ",
+        "start": 399.19,
+        "end": 400.391,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "لذين",
+        "start": 400.591,
+        "end": 401.312,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "فيها",
+        "start": 401.432,
+        "end": 402.933,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "يحسبهم",
+        "start": 403.174,
+        "end": 404.335,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ولا",
+        "start": 404.415,
+        "end": 404.715,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "عنهم",
+        "start": 404.795,
+        "end": 405.536,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الله",
+        "start": 405.596,
+        "end": 407.478,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ولهم",
+        "start": 407.578,
+        "end": 408.239,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "عذاب",
+        "start": 408.339,
+        "end": 409.239,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "مقيم",
+        "start": 409.76,
+        "end": 411.101,
+        "speaker": "SPEAKER_00"
+      }
+    ]
+  },
+  {
+    "start": 412.4,
+    "end": 437.35,
+    "speaker": "SPEAKER_00",
+    "text": "كالذين من قبلكم كانوا أشد منكم قوة وأكثر أم ولا وأولادة فستمت عم بخلاقهم فستمت عتم بخلاقكم كمستمت عالذين من قبلكم بخلاقهم",
+    "words": [
+      {
+        "word": "كالذين",
+        "start": 412.398,
+        "end": 413.498,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "من",
+        "start": 413.578,
+        "end": 414.399,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "قبلكم",
+        "start": 414.519,
+        "end": 415.399,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "كانوا",
+        "start": 415.499,
+        "end": 416.719,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "أشد",
+        "start": 416.799,
+        "end": 417.58,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "منكم",
+        "start": 417.64,
+        "end": 418.88,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "قوة",
+        "start": 418.98,
+        "end": 420.321,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "وأكثر",
+        "start": 420.401,
+        "end": 421.281,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "أم",
+        "start": 421.361,
+        "end": 421.701,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ولا",
+        "start": 421.761,
+        "end": 422.761,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "وأولادة",
+        "start": 422.861,
+        "end": 425.202,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "فستمت",
+        "start": 425.282,
+        "end": 426.122,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "عم",
+        "start": 426.242,
+        "end": 426.522,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "بخلاقهم",
+        "start": 426.583,
+        "end": 427.883,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "فستمت",
+        "start": 427.963,
+        "end": 428.843,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "عتم",
+        "start": 428.983,
+        "end": 429.804,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "بخلاقكم",
+        "start": 429.844,
+        "end": 431.164,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "كمستمت",
+        "start": 431.244,
+        "end": 432.304,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "عالذين",
+        "start": 432.424,
+        "end": 433.585,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "من",
+        "start": 433.685,
+        "end": 434.605,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "قبلكم",
+        "start": 434.745,
+        "end": 436.026,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "بخلاقهم",
+        "start": 436.066,
+        "end": 437.346,
+        "speaker": "SPEAKER_00"
+      }
+    ]
+  },
+  {
+    "start": 439.06,
+    "end": 461.03,
+    "speaker": "SPEAKER_00",
+    "text": "كما استمتعلذين من قبلكم بخلقهم وخدتم كلذي خاده. ولا إكحابي قت أعمالهم في الدنيا والأخيرها. ولا إكهم الخاصيرون.",
+    "words": [
+      {
+        "word": "كما",
+        "start": 439.06,
+        "end": 439.34,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "استمتعلذين",
+        "start": 439.36,
+        "end": 441.221,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "من",
+        "start": 441.321,
+        "end": 441.981,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "قبلكم",
+        "start": 442.121,
+        "end": 443.301,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "بخلقهم",
+        "start": 443.361,
+        "end": 444.662,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "وخدتم",
+        "start": 444.722,
+        "end": 445.642,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "كلذي",
+        "start": 445.722,
+        "end": 446.623,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "خاده.",
+        "start": 446.783,
+        "end": 448.683,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ولا",
+        "start": 448.863,
+        "end": 450.064,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "إكحابي",
+        "start": 450.124,
+        "end": 450.804,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "قت",
+        "start": 450.904,
+        "end": 451.264,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "أعمالهم",
+        "start": 451.324,
+        "end": 452.645,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "في",
+        "start": 452.745,
+        "end": 452.885,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الدنيا",
+        "start": 452.925,
+        "end": 453.885,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "والأخيرها.",
+        "start": 453.965,
+        "end": 456.126,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ولا",
+        "start": 456.206,
+        "end": 458.046,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "إكهم",
+        "start": 458.106,
+        "end": 458.747,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الخاصيرون.",
+        "start": 458.767,
+        "end": 461.027,
+        "speaker": "SPEAKER_00"
+      }
+    ]
+  },
+  {
+    "start": 462.49,
+    "end": 465.35,
+    "speaker": "SPEAKER_00",
+    "text": "ألم يأتيكم نباء الذين",
+    "words": [
+      {
+        "word": "ألم",
+        "start": 462.488,
+        "end": 462.948,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "يأتيكم",
+        "start": 463.028,
+        "end": 463.788,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "نباء",
+        "start": 463.948,
+        "end": 464.488,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الذين",
+        "start": 464.528,
+        "end": 465.349,
+        "speaker": "SPEAKER_00"
+      }
+    ]
+  },
+  {
+    "start": 476.07,
+    "end": 487.83,
+    "speaker": "SPEAKER_01",
+    "text": "31. ألم يأتي النباء الذين من قبلهم قوم نوحي وعده وثمود 31.",
+    "words": [
+      {
+        "word": "31.",
+        "start": 476.067,
+        "end": 476.167,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "ألم",
+        "start": 476.187,
+        "end": 476.587,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "يأتي",
+        "start": 476.647,
+        "end": 477.648,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "النباء",
+        "start": 477.668,
+        "end": 478.328,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "الذين",
+        "start": 478.388,
+        "end": 479.389,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "من",
+        "start": 479.469,
+        "end": 480.349,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "قبلهم",
+        "start": 480.489,
+        "end": 481.449,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "قوم",
+        "start": 481.57,
+        "end": 482.27,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "نوحي",
+        "start": 482.29,
+        "end": 483.45,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "وعده",
+        "start": 483.51,
+        "end": 484.991,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "وثمود",
+        "start": 485.051,
+        "end": 486.712,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "31.",
+        "start": 486.732,
+        "end": 487.832,
+        "speaker": "SPEAKER_01"
+      }
+    ]
+  },
+  {
+    "start": 487.91,
+    "end": 504.08,
+    "speaker": "SPEAKER_00",
+    "text": "ألم يأتي النباء الذين من قبلهم قوم نوحي وعده وثمود 31. وقوم إبراه ما وأصحاب مدين والمتفكات",
+    "words": [
+      {
+        "word": "ألم",
+        "start": 487.912,
+        "end": 488.393,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "يأتي",
+        "start": 488.453,
+        "end": 489.313,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "النباء",
+        "start": 489.333,
+        "end": 489.933,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الذين",
+        "start": 489.973,
+        "end": 490.854,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "من",
+        "start": 490.934,
+        "end": 491.494,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "قبلهم",
+        "start": 491.614,
+        "end": 492.395,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "قوم",
+        "start": 492.515,
+        "end": 492.895,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "نوحي",
+        "start": 493.035,
+        "end": 493.935,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "وعده",
+        "start": 493.995,
+        "end": 494.656,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "وثمود",
+        "start": 495.216,
+        "end": 497.777,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "31.",
+        "start": 497.797,
+        "end": 497.857,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "وقوم",
+        "start": 497.937,
+        "end": 498.657,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "إبراه",
+        "start": 498.697,
+        "end": 499.498,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ما",
+        "start": 499.818,
+        "end": 499.958,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "وأصحاب",
+        "start": 500.018,
+        "end": 501.119,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "مدين",
+        "start": 501.199,
+        "end": 501.919,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "والمتفكات",
+        "start": 501.979,
+        "end": 504.08,
+        "speaker": "SPEAKER_00"
+      }
+    ]
+  },
+  {
+    "start": 505.46,
+    "end": 528.65,
+    "speaker": "SPEAKER_00",
+    "text": "أتتهم رسلهم بالبينات فما كان الله يظلمهم ولكن كانوا أنفسهم يظلمون والمؤمنون والمؤمنات صباح الصعال الثالث",
+    "words": [
+      {
+        "word": "أتتهم",
+        "start": 505.46,
+        "end": 506.34,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "رسلهم",
+        "start": 506.4,
+        "end": 507.741,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "بالبينات",
+        "start": 507.821,
+        "end": 510.461,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "فما",
+        "start": 510.541,
+        "end": 510.982,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "كان",
+        "start": 511.122,
+        "end": 511.642,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الله",
+        "start": 511.682,
+        "end": 512.422,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "يظلمهم",
+        "start": 512.682,
+        "end": 513.742,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ولكن",
+        "start": 513.802,
+        "end": 515.243,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "كانوا",
+        "start": 515.343,
+        "end": 516.663,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "أنفسهم",
+        "start": 516.743,
+        "end": 518.283,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "يظلمون",
+        "start": 518.363,
+        "end": 520.104,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "والمؤمنون",
+        "start": 521.664,
+        "end": 523.064,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "والمؤمنات",
+        "start": 523.125,
+        "end": 524.385,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "صباح",
+        "start": 524.525,
+        "end": 524.905,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "الصعال",
+        "start": 527.686,
+        "end": 528.186,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الثالث",
+        "start": 528.206,
+        "end": 528.646,
+        "speaker": "SPEAKER_01"
+      }
+    ]
+  },
+  {
+    "start": 530.9,
+    "end": 542.03,
+    "speaker": "SPEAKER_01",
+    "text": "4. ولقد خلقنا الإنسان من صلصال من حما إمسنون",
+    "words": [
+      {
+        "word": "4.",
+        "start": 530.9,
+        "end": 530.98,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "ولقد",
+        "start": 531.08,
+        "end": 531.681,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "خلقنا",
+        "start": 531.881,
+        "end": 532.823,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "الإنسان",
+        "start": 532.883,
+        "end": 535.006,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "من",
+        "start": 535.126,
+        "end": 535.887,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "صلصال",
+        "start": 536.067,
+        "end": 537.609,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "من",
+        "start": 538.23,
+        "end": 538.631,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "حما",
+        "start": 538.771,
+        "end": 539.211,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "إمسنون",
+        "start": 539.332,
+        "end": 542.035,
+        "speaker": "SPEAKER_01"
+      }
+    ]
+  },
+  {
+    "start": 543.93,
+    "end": 564.04,
+    "speaker": "SPEAKER_00",
+    "text": "8. ولقد خلقنا الإنسان منصل صالي من حمائن نسنون 8. ولجان نخلقناه من قبل من نار السمون",
+    "words": [
+      {
+        "word": "8.",
+        "start": 543.928,
+        "end": 543.988,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ولقد",
+        "start": 544.008,
+        "end": 544.529,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "خلقنا",
+        "start": 544.669,
+        "end": 545.349,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الإنسان",
+        "start": 545.389,
+        "end": 547.011,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "منصل",
+        "start": 547.091,
+        "end": 548.392,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "صالي",
+        "start": 548.552,
+        "end": 549.212,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "من",
+        "start": 549.713,
+        "end": 549.973,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "حمائن",
+        "start": 550.093,
+        "end": 550.734,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "نسنون",
+        "start": 551.574,
+        "end": 553.996,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "8.",
+        "start": 554.016,
+        "end": 554.056,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ولجان",
+        "start": 554.137,
+        "end": 558.36,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "نخلقناه",
+        "start": 558.38,
+        "end": 559.701,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "من",
+        "start": 559.881,
+        "end": 560.562,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "قبل",
+        "start": 560.682,
+        "end": 561.182,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "من",
+        "start": 561.242,
+        "end": 561.683,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "نار",
+        "start": 561.843,
+        "end": 562.363,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "السمون",
+        "start": 562.403,
+        "end": 564.045,
+        "speaker": "SPEAKER_00"
+      }
+    ]
+  },
+  {
+    "start": 565.47,
+    "end": 606.41,
+    "speaker": "SPEAKER_00",
+    "text": "وإذ قال ربك للملائكة إن خالق بشرم من صلصال من حماء مسنون فإذا سويته ونفخت فيه مروح فقع له ساجدين فسجد الملائكة كلهم أجمعون إلا إبليس أباء يكون مع السجدين 8 4 4 4 4 4 4 4 4 4 4",
+    "words": [
+      {
+        "word": "وإذ",
+        "start": 565.474,
+        "end": 565.894,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "قال",
+        "start": 565.974,
+        "end": 566.455,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ربك",
+        "start": 566.555,
+        "end": 567.216,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "للملائكة",
+        "start": 567.296,
+        "end": 569.457,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "إن",
+        "start": 569.518,
+        "end": 570.538,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "خالق",
+        "start": 570.658,
+        "end": 571.859,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "بشرم",
+        "start": 571.92,
+        "end": 572.56,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "من",
+        "start": 573.04,
+        "end": 573.641,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "صلصال",
+        "start": 573.761,
+        "end": 574.862,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "من",
+        "start": 575.262,
+        "end": 575.563,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "حماء",
+        "start": 575.663,
+        "end": 576.343,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "مسنون",
+        "start": 576.804,
+        "end": 579.246,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "فإذا",
+        "start": 579.326,
+        "end": 579.906,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "سويته",
+        "start": 580.066,
+        "end": 581.288,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ونفخت",
+        "start": 581.368,
+        "end": 582.208,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "فيه",
+        "start": 582.288,
+        "end": 582.769,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "مروح",
+        "start": 582.829,
+        "end": 583.91,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "فقع",
+        "start": 583.99,
+        "end": 584.67,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "له",
+        "start": 584.75,
+        "end": 585.191,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ساجدين",
+        "start": 585.311,
+        "end": 587.193,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "فسجد",
+        "start": 587.853,
+        "end": 588.514,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الملائكة",
+        "start": 588.554,
+        "end": 590.777,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "كلهم",
+        "start": 590.857,
+        "end": 591.698,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "أجمعون",
+        "start": 591.758,
+        "end": 594.161,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "إلا",
+        "start": 594.261,
+        "end": 595.562,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "إبليس",
+        "start": 595.663,
+        "end": 597.585,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "أباء",
+        "start": 597.665,
+        "end": 599.888,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "يكون",
+        "start": 599.988,
+        "end": 600.649,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "مع",
+        "start": 600.729,
+        "end": 601.029,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "السجدين",
+        "start": 601.069,
+        "end": 603.051,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "8",
+        "start": 603.812,
+        "end": 603.932,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "4",
+        "start": 604.132,
+        "end": 604.273,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "4",
+        "start": 604.293,
+        "end": 604.373,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "4",
+        "start": 604.493,
+        "end": 605.333,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "4",
+        "start": 605.393,
+        "end": 605.453,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "4",
+        "start": 605.573,
+        "end": 605.774,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "4",
+        "start": 605.834,
+        "end": 605.854,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "4",
+        "start": 605.934,
+        "end": 606.174,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "4",
+        "start": 606.254,
+        "end": 606.294,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "4",
+        "start": 606.314,
+        "end": 606.334,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "4",
+        "start": 606.394,
+        "end": 606.414,
+        "speaker": "SPEAKER_00"
+      }
+    ]
+  },
+  {
+    "start": 623.94,
+    "end": 700.13,
+    "speaker": "SPEAKER_00",
+    "text": "4. قال فخرج منها فإن كرجيم وإن عليك العنة إلا يوم الدين 4. قال رب فأن غرني إلا يوم يبعثون 4. قال فإن كمن المنظرين 4. إلا يوم الوقت المعلم 4. قال رب بما أغويتني لأزينا لهم في الأرض والأغيناهم أجمعين إلا عبادك منهم المخلصين 10. قال هذا صراقنا علي مستقيم إن عباد ليسلك عليهم سلطان إلا من التباك من الغوين وإن جهنما لما وعدهم أجمعين لها سبعة أبواب لكل باب منهم جزء مخصوم",
+    "words": [
+      {
+        "word": "4.",
+        "start": 623.943,
+        "end": 624.023,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "قال",
+        "start": 624.063,
+        "end": 624.363,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "فخرج",
+        "start": 624.443,
+        "end": 625.103,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "منها",
+        "start": 625.183,
+        "end": 625.824,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "فإن",
+        "start": 625.924,
+        "end": 626.944,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "كرجيم",
+        "start": 627.084,
+        "end": 629.325,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "وإن",
+        "start": 629.445,
+        "end": 630.645,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "عليك",
+        "start": 630.725,
+        "end": 631.406,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "العنة",
+        "start": 631.426,
+        "end": 632.386,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "إلا",
+        "start": 632.466,
+        "end": 632.906,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "يوم",
+        "start": 633.006,
+        "end": 633.506,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الدين",
+        "start": 633.566,
+        "end": 635.447,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "4.",
+        "start": 635.467,
+        "end": 635.507,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "قال",
+        "start": 635.607,
+        "end": 636.067,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "رب",
+        "start": 636.147,
+        "end": 636.647,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "فأن",
+        "start": 636.727,
+        "end": 637.948,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "غرني",
+        "start": 638.048,
+        "end": 639.248,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "إلا",
+        "start": 639.328,
+        "end": 639.789,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "يوم",
+        "start": 639.869,
+        "end": 640.409,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "يبعثون",
+        "start": 640.449,
+        "end": 642.129,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "4.",
+        "start": 642.149,
+        "end": 642.67,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "قال",
+        "start": 642.77,
+        "end": 643.21,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "فإن",
+        "start": 643.31,
+        "end": 644.51,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "كمن",
+        "start": 644.53,
+        "end": 644.87,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "المنظرين",
+        "start": 644.91,
+        "end": 647.391,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "4.",
+        "start": 647.411,
+        "end": 647.931,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "إلا",
+        "start": 648.011,
+        "end": 648.432,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "يوم",
+        "start": 648.512,
+        "end": 648.992,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الوقت",
+        "start": 649.032,
+        "end": 649.812,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "المعلم",
+        "start": 649.872,
+        "end": 651.533,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "4.",
+        "start": 652.713,
+        "end": 652.793,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "قال",
+        "start": 652.833,
+        "end": 653.133,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "رب",
+        "start": 653.233,
+        "end": 653.733,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "بما",
+        "start": 653.814,
+        "end": 655.114,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "أغويتني",
+        "start": 655.194,
+        "end": 656.435,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "لأزينا",
+        "start": 656.515,
+        "end": 658.515,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "لهم",
+        "start": 658.575,
+        "end": 659.096,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "في",
+        "start": 659.176,
+        "end": 659.336,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الأرض",
+        "start": 659.376,
+        "end": 660.056,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "والأغيناهم",
+        "start": 660.116,
+        "end": 662.377,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "أجمعين",
+        "start": 662.457,
+        "end": 664.778,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "إلا",
+        "start": 664.898,
+        "end": 665.478,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "عبادك",
+        "start": 665.578,
+        "end": 666.479,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "منهم",
+        "start": 666.559,
+        "end": 667.199,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "المخلصين",
+        "start": 667.259,
+        "end": 669.14,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "10.",
+        "start": 669.7,
+        "end": 669.8,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "قال",
+        "start": 669.82,
+        "end": 670.121,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "هذا",
+        "start": 670.221,
+        "end": 670.802,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "صراقنا",
+        "start": 670.962,
+        "end": 671.763,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "علي",
+        "start": 671.863,
+        "end": 672.484,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "مستقيم",
+        "start": 672.544,
+        "end": 674.928,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "إن",
+        "start": 675.028,
+        "end": 675.789,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "عباد",
+        "start": 675.869,
+        "end": 676.791,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ليسلك",
+        "start": 676.871,
+        "end": 677.692,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "عليهم",
+        "start": 677.772,
+        "end": 678.533,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "سلطان",
+        "start": 678.653,
+        "end": 679.775,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "إلا",
+        "start": 679.875,
+        "end": 680.556,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "من",
+        "start": 680.636,
+        "end": 680.877,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "التباك",
+        "start": 680.917,
+        "end": 681.878,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "من",
+        "start": 681.938,
+        "end": 682.199,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الغوين",
+        "start": 682.219,
+        "end": 683.961,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "وإن",
+        "start": 684.722,
+        "end": 685.922,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "جهنما",
+        "start": 686.022,
+        "end": 687.323,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "لما",
+        "start": 687.403,
+        "end": 687.763,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "وعدهم",
+        "start": 687.783,
+        "end": 688.663,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "أجمعين",
+        "start": 688.723,
+        "end": 691.044,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "لها",
+        "start": 691.164,
+        "end": 691.604,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "سبعة",
+        "start": 691.744,
+        "end": 692.464,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "أبواب",
+        "start": 692.544,
+        "end": 694.605,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "لكل",
+        "start": 694.685,
+        "end": 695.305,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "باب",
+        "start": 695.405,
+        "end": 696.045,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "منهم",
+        "start": 696.605,
+        "end": 697.285,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "جزء",
+        "start": 697.385,
+        "end": 698.366,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "مخصوم",
+        "start": 698.466,
+        "end": 700.126,
+        "speaker": "SPEAKER_00"
+      }
+    ]
+  },
+  {
+    "start": 705.93,
+    "end": 725.48,
+    "speaker": "SPEAKER_01",
+    "text": "الذين كثير لهم نارجه النم لا يقبع عليهم ف يموت و لا يخفف و لا يخفف عنهم من عذابها",
+    "words": [
+      {
+        "word": "الذين",
+        "start": 705.933,
+        "end": 707.053,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "كثير",
+        "start": 707.194,
+        "end": 708.234,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "لهم",
+        "start": 708.314,
+        "end": 708.934,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "نارجه",
+        "start": 709.014,
+        "end": 710.195,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "النم",
+        "start": 710.235,
+        "end": 711.615,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "لا",
+        "start": 711.695,
+        "end": 712.075,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "يقبع",
+        "start": 712.175,
+        "end": 713.296,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "عليهم",
+        "start": 713.396,
+        "end": 714.556,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "ف",
+        "start": 714.656,
+        "end": 714.756,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "يموت",
+        "start": 714.916,
+        "end": 716.177,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "و",
+        "start": 716.297,
+        "end": 716.357,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "لا",
+        "start": 716.557,
+        "end": 716.937,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "يخفف",
+        "start": 717.037,
+        "end": 719.498,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "و",
+        "start": 719.638,
+        "end": 719.718,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "لا",
+        "start": 719.858,
+        "end": 720.238,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "يخفف",
+        "start": 720.338,
+        "end": 721.618,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "عنهم",
+        "start": 721.758,
+        "end": 723.399,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "من",
+        "start": 723.519,
+        "end": 723.979,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "عذابها",
+        "start": 724.079,
+        "end": 725.48,
+        "speaker": "SPEAKER_01"
+      }
+    ]
+  },
+  {
+    "start": 730.64,
+    "end": 758.47,
+    "speaker": "SPEAKER_00",
+    "text": "والذين كثر لهم نارجها النم لا يقضى عليهم ف يموت ولا يخفف عنهم من عذابها كذلك نجزي كل كفور وهم يصطريه نفسها ربنا أخري جناهنا عمل صالح النغير الذي كننا عمل",
+    "words": [
+      {
+        "word": "والذين",
+        "start": 730.636,
+        "end": 731.656,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "كثر",
+        "start": 731.756,
+        "end": 732.397,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "لهم",
+        "start": 732.477,
+        "end": 732.877,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "نارجها",
+        "start": 732.997,
+        "end": 734.517,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "النم",
+        "start": 734.637,
+        "end": 734.857,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "لا",
+        "start": 735.898,
+        "end": 736.178,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "يقضى",
+        "start": 736.238,
+        "end": 736.878,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "عليهم",
+        "start": 736.978,
+        "end": 737.758,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ف",
+        "start": 737.838,
+        "end": 737.898,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "يموت",
+        "start": 738.038,
+        "end": 738.839,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ولا",
+        "start": 738.919,
+        "end": 739.379,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "يخفف",
+        "start": 739.439,
+        "end": 740.299,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "عنهم",
+        "start": 740.379,
+        "end": 741.86,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "من",
+        "start": 741.92,
+        "end": 742.22,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "عذابها",
+        "start": 742.3,
+        "end": 743.92,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "كذلك",
+        "start": 744.0,
+        "end": 744.86,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "نجزي",
+        "start": 744.94,
+        "end": 745.581,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "كل",
+        "start": 745.681,
+        "end": 746.141,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "كفور",
+        "start": 746.241,
+        "end": 748.061,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "وهم",
+        "start": 748.141,
+        "end": 748.582,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "يصطريه",
+        "start": 748.642,
+        "end": 749.542,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "نفسها",
+        "start": 749.722,
+        "end": 751.062,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ربنا",
+        "start": 751.162,
+        "end": 752.443,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "أخري",
+        "start": 752.523,
+        "end": 752.983,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "جناهنا",
+        "start": 753.063,
+        "end": 753.783,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "عمل",
+        "start": 753.863,
+        "end": 754.323,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "صالح",
+        "start": 754.443,
+        "end": 755.064,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "النغير",
+        "start": 755.084,
+        "end": 755.844,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الذي",
+        "start": 755.884,
+        "end": 756.524,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "كننا",
+        "start": 756.624,
+        "end": 757.724,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "عمل",
+        "start": 758.065,
+        "end": 758.465,
+        "speaker": "SPEAKER_00"
+      }
+    ]
+  },
+  {
+    "start": 759.75,
+    "end": 786.91,
+    "speaker": "SPEAKER_00",
+    "text": "أو لمن عمدكم ما يتذكر فيه ما تذكر وجاءكم النذير فذوقوا فمال الظالمين من نصير إن الله علي مغيب السماوة والأرض إنه علي ممذات الصدور",
+    "words": [
+      {
+        "word": "أو",
+        "start": 759.745,
+        "end": 759.985,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "لمن",
+        "start": 760.085,
+        "end": 760.486,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "عمدكم",
+        "start": 760.626,
+        "end": 762.587,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ما",
+        "start": 762.707,
+        "end": 762.988,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "يتذكر",
+        "start": 763.068,
+        "end": 764.148,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "فيه",
+        "start": 764.249,
+        "end": 764.729,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ما",
+        "start": 764.809,
+        "end": 765.49,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "تذكر",
+        "start": 765.61,
+        "end": 766.41,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "وجاءكم",
+        "start": 766.49,
+        "end": 768.052,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "النذير",
+        "start": 768.092,
+        "end": 770.073,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "فذوقوا",
+        "start": 770.153,
+        "end": 770.974,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "فمال",
+        "start": 771.054,
+        "end": 771.654,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الظالمين",
+        "start": 771.754,
+        "end": 773.015,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "من",
+        "start": 773.075,
+        "end": 773.576,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "نصير",
+        "start": 773.756,
+        "end": 775.838,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "إن",
+        "start": 775.958,
+        "end": 776.858,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الله",
+        "start": 776.898,
+        "end": 777.599,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "علي",
+        "start": 777.699,
+        "end": 778.319,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "مغيب",
+        "start": 778.339,
+        "end": 778.88,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "السماوة",
+        "start": 778.92,
+        "end": 780.261,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "والأرض",
+        "start": 780.341,
+        "end": 782.042,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "إنه",
+        "start": 782.182,
+        "end": 783.323,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "علي",
+        "start": 783.443,
+        "end": 783.884,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ممذات",
+        "start": 783.964,
+        "end": 785.285,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الصدور",
+        "start": 785.345,
+        "end": 786.906,
+        "speaker": "SPEAKER_00"
+      }
+    ]
+  },
+  {
+    "start": 788.45,
+    "end": 810.39,
+    "speaker": "SPEAKER_00",
+    "text": "والذي جعلكم خلاء ففي الأرون فمن كثرة فعليه كفره ولا يزيد الكافري نكفرهم عيد ربهم إلا مقتى ولا يزيد الكافري نكفرهم إلا خسارب",
+    "words": [
+      {
+        "word": "والذي",
+        "start": 788.447,
+        "end": 789.208,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "جعلكم",
+        "start": 789.308,
+        "end": 790.069,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "خلاء",
+        "start": 790.149,
+        "end": 792.571,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ففي",
+        "start": 792.651,
+        "end": 793.011,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الأرون",
+        "start": 793.051,
+        "end": 794.513,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "فمن",
+        "start": 794.593,
+        "end": 795.413,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "كثرة",
+        "start": 795.493,
+        "end": 796.014,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "فعليه",
+        "start": 796.034,
+        "end": 796.815,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "كفره",
+        "start": 796.915,
+        "end": 797.996,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ولا",
+        "start": 798.096,
+        "end": 798.516,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "يزيد",
+        "start": 798.596,
+        "end": 799.237,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الكافري",
+        "start": 799.257,
+        "end": 800.478,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "نكفرهم",
+        "start": 800.498,
+        "end": 801.419,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "عيد",
+        "start": 801.499,
+        "end": 802.339,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ربهم",
+        "start": 802.399,
+        "end": 803.22,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "إلا",
+        "start": 803.3,
+        "end": 803.981,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "مقتى",
+        "start": 804.081,
+        "end": 805.382,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ولا",
+        "start": 805.482,
+        "end": 805.943,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "يزيد",
+        "start": 806.023,
+        "end": 806.663,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الكافري",
+        "start": 806.703,
+        "end": 807.924,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "نكفرهم",
+        "start": 807.944,
+        "end": 808.865,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "إلا",
+        "start": 808.945,
+        "end": 809.526,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "خسارب",
+        "start": 809.666,
+        "end": 810.386,
+        "speaker": "SPEAKER_00"
+      }
+    ]
+  },
+  {
+    "start": 811.99,
+    "end": 849.32,
+    "speaker": "SPEAKER_00",
+    "text": "قل أرائي تمشرك أكم الذين تدعون من دون الله أرون ماذا خلق من الأرم أروني ما ذا خلقوا من الأرض أم لا هم شركوا في السماوات أم آتين هم كتابا فهم على بينات منه بل إيئ دفال منا بعضهم بعضًا إلا كفرى إلا نفرى",
+    "words": [
+      {
+        "word": "قل",
+        "start": 811.987,
+        "end": 812.207,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "أرائي",
+        "start": 812.267,
+        "end": 812.848,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "تمشرك",
+        "start": 812.988,
+        "end": 813.949,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "أكم",
+        "start": 815.09,
+        "end": 815.59,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الذين",
+        "start": 815.63,
+        "end": 816.471,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "تدعون",
+        "start": 816.551,
+        "end": 817.412,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "من",
+        "start": 817.512,
+        "end": 818.192,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "دون",
+        "start": 818.312,
+        "end": 818.773,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الله",
+        "start": 818.813,
+        "end": 819.533,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "أرون",
+        "start": 819.594,
+        "end": 820.454,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ماذا",
+        "start": 820.534,
+        "end": 821.175,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "خلق",
+        "start": 821.335,
+        "end": 822.056,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "من",
+        "start": 822.136,
+        "end": 822.456,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الأرم",
+        "start": 822.496,
+        "end": 823.277,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "أروني",
+        "start": 824.404,
+        "end": 825.185,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ما",
+        "start": 825.265,
+        "end": 825.565,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ذا",
+        "start": 825.625,
+        "end": 825.885,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "خلقوا",
+        "start": 826.005,
+        "end": 826.706,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "من",
+        "start": 826.766,
+        "end": 827.046,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الأرض",
+        "start": 827.106,
+        "end": 827.806,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "أم",
+        "start": 827.886,
+        "end": 828.127,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "لا",
+        "start": 828.187,
+        "end": 828.327,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "هم",
+        "start": 828.387,
+        "end": 828.647,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "شركوا",
+        "start": 828.767,
+        "end": 829.888,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "في",
+        "start": 829.948,
+        "end": 830.088,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "السماوات",
+        "start": 830.148,
+        "end": 832.91,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "أم",
+        "start": 833.03,
+        "end": 833.29,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "آتين",
+        "start": 833.37,
+        "end": 834.271,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "هم",
+        "start": 834.471,
+        "end": 834.751,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "كتابا",
+        "start": 834.831,
+        "end": 836.052,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "فهم",
+        "start": 836.152,
+        "end": 836.592,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "على",
+        "start": 836.692,
+        "end": 837.112,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "بينات",
+        "start": 837.233,
+        "end": 838.313,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "منه",
+        "start": 838.854,
+        "end": 840.014,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "بل",
+        "start": 840.114,
+        "end": 840.395,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "إيئ",
+        "start": 840.475,
+        "end": 841.575,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "دفال",
+        "start": 841.656,
+        "end": 842.196,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "منا",
+        "start": 842.356,
+        "end": 842.836,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "بعضهم",
+        "start": 842.916,
+        "end": 844.317,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "بعضًا",
+        "start": 844.397,
+        "end": 845.118,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "إلا",
+        "start": 845.198,
+        "end": 845.818,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "كفرى",
+        "start": 845.938,
+        "end": 848.22,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "إلا",
+        "start": 848.34,
+        "end": 848.9,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "نفرى",
+        "start": 849.0,
+        "end": 849.321,
+        "speaker": "SPEAKER_00"
+      }
+    ]
+  },
+  {
+    "start": 856.37,
+    "end": 858.29,
+    "speaker": "SPEAKER_01",
+    "text": "إلا غرورة",
+    "words": [
+      {
+        "word": "إلا",
+        "start": 856.368,
+        "end": 857.149,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "غرورة",
+        "start": 857.29,
+        "end": 858.291,
+        "speaker": "SPEAKER_01"
+      }
+    ]
+  },
+  {
+    "start": 863.6,
+    "end": 891.18,
+    "speaker": "SPEAKER_00",
+    "text": "أم أتيناهم كتابا فهم على بينة منه بل إيئد ولمنا بعضهم بعضا إلا غرورا إن الله يمسك السماوات والأرض أن تزولا ولإن زالة إن أمسكهم من أحد من بعديه",
+    "words": [
+      {
+        "word": "أم",
+        "start": 863.602,
+        "end": 863.842,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "أتيناهم",
+        "start": 863.902,
+        "end": 865.163,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "كتابا",
+        "start": 865.223,
+        "end": 866.524,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "فهم",
+        "start": 866.605,
+        "end": 867.005,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "على",
+        "start": 867.085,
+        "end": 867.485,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "بينة",
+        "start": 867.585,
+        "end": 868.606,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "منه",
+        "start": 869.006,
+        "end": 869.847,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "بل",
+        "start": 869.947,
+        "end": 870.207,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "إيئد",
+        "start": 870.268,
+        "end": 871.208,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ولمنا",
+        "start": 871.388,
+        "end": 872.389,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "بعضهم",
+        "start": 872.469,
+        "end": 873.51,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "بعضا",
+        "start": 873.61,
+        "end": 874.251,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "إلا",
+        "start": 874.331,
+        "end": 874.891,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "غرورا",
+        "start": 875.051,
+        "end": 876.633,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "إن",
+        "start": 876.733,
+        "end": 877.573,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الله",
+        "start": 877.614,
+        "end": 878.294,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "يمسك",
+        "start": 878.374,
+        "end": 879.035,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "السماوات",
+        "start": 879.075,
+        "end": 880.436,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "والأرض",
+        "start": 880.496,
+        "end": 881.337,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "أن",
+        "start": 881.377,
+        "end": 881.877,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "تزولا",
+        "start": 881.997,
+        "end": 883.598,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ولإن",
+        "start": 883.679,
+        "end": 884.679,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "زالة",
+        "start": 884.799,
+        "end": 886.301,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "إن",
+        "start": 886.381,
+        "end": 886.661,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "أمسكهم",
+        "start": 886.721,
+        "end": 887.922,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "من",
+        "start": 888.002,
+        "end": 888.242,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "أحد",
+        "start": 888.322,
+        "end": 888.783,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "من",
+        "start": 889.503,
+        "end": 890.504,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "بعديه",
+        "start": 890.604,
+        "end": 891.185,
+        "speaker": "SPEAKER_00"
+      }
+    ]
+  },
+  {
+    "start": 893.85,
+    "end": 917.73,
+    "speaker": "SPEAKER_00",
+    "text": "إنه إن الله يمسك السماوات والأربعات زولة ولإنزالة إن أمسكهم من أحد من بعد إنه كان عليمه إنه كان حليم النغفورة حسبك",
+    "words": [
+      {
+        "word": "إنه",
+        "start": 893.848,
+        "end": 895.169,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "إن",
+        "start": 896.57,
+        "end": 897.191,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الله",
+        "start": 897.211,
+        "end": 897.852,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "يمسك",
+        "start": 897.932,
+        "end": 898.532,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "السماوات",
+        "start": 898.592,
+        "end": 899.773,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "والأربعات",
+        "start": 899.813,
+        "end": 901.274,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "زولة",
+        "start": 901.435,
+        "end": 902.516,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ولإنزالة",
+        "start": 902.596,
+        "end": 904.677,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "إن",
+        "start": 904.757,
+        "end": 904.998,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "أمسكهم",
+        "start": 905.058,
+        "end": 906.239,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "من",
+        "start": 906.319,
+        "end": 906.579,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "أحد",
+        "start": 906.619,
+        "end": 907.58,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "من",
+        "start": 907.64,
+        "end": 908.341,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "بعد",
+        "start": 908.441,
+        "end": 909.421,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "إنه",
+        "start": 909.522,
+        "end": 910.823,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "كان",
+        "start": 910.943,
+        "end": 911.403,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "عليمه",
+        "start": 911.483,
+        "end": 913.365,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "إنه",
+        "start": 913.485,
+        "end": 914.326,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "كان",
+        "start": 914.466,
+        "end": 914.886,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "حليم",
+        "start": 914.986,
+        "end": 915.567,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "النغفورة",
+        "start": 915.607,
+        "end": 917.168,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "حسبك",
+        "start": 917.308,
+        "end": 917.729,
+        "speaker": "SPEAKER_00"
+      }
+    ]
+  },
+  {
+    "start": 922.63,
+    "end": 938.0,
+    "speaker": "SPEAKER_01",
+    "text": "أسؤال الأخير ياء يهل الذين أمنوا إذانوا ديال الصلاة من يوم الجمع",
+    "words": [
+      {
+        "word": "أسؤال",
+        "start": 922.627,
+        "end": 923.127,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "الأخير",
+        "start": 923.147,
+        "end": 923.568,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "ياء",
+        "start": 925.81,
+        "end": 927.451,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "يهل",
+        "start": 927.951,
+        "end": 928.412,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "الذين",
+        "start": 928.452,
+        "end": 929.673,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "أمنوا",
+        "start": 929.753,
+        "end": 931.895,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "إذانوا",
+        "start": 931.975,
+        "end": 933.136,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "ديال",
+        "start": 933.276,
+        "end": 933.716,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "الصلاة",
+        "start": 933.776,
+        "end": 935.257,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "من",
+        "start": 935.377,
+        "end": 936.238,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "يوم",
+        "start": 936.338,
+        "end": 937.039,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "الجمع",
+        "start": 937.079,
+        "end": 938.0,
+        "speaker": "SPEAKER_01"
+      }
+    ]
+  },
+  {
+    "start": 944.16,
+    "end": 958.53,
+    "speaker": "SPEAKER_00",
+    "text": "يأيه الذين أمنوا إذنوا ديال الصلاة من يوم الجمعة فسعوا إلى ذكر الله",
+    "words": [
+      {
+        "word": "يأيه",
+        "start": 944.165,
+        "end": 947.27,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "الذين",
+        "start": 947.29,
+        "end": 948.332,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "أمنوا",
+        "start": 948.412,
+        "end": 950.135,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "إذنوا",
+        "start": 950.215,
+        "end": 951.116,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ديال",
+        "start": 951.196,
+        "end": 951.637,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الصلاة",
+        "start": 951.657,
+        "end": 952.719,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "من",
+        "start": 952.839,
+        "end": 953.54,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "يوم",
+        "start": 953.6,
+        "end": 954.121,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الجمعة",
+        "start": 954.181,
+        "end": 955.123,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "فسعوا",
+        "start": 955.223,
+        "end": 955.964,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "إلى",
+        "start": 956.004,
+        "end": 956.505,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ذكر",
+        "start": 956.605,
+        "end": 957.126,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الله",
+        "start": 957.166,
+        "end": 958.528,
+        "speaker": "SPEAKER_00"
+      }
+    ]
+  },
+  {
+    "start": 960.02,
+    "end": 985.99,
+    "speaker": "SPEAKER_00",
+    "text": "فسعوا إلى ذكر الله وذر الباير دالكم خير اللهكم إنكم تعلمون فإذا قبيت الصلاة فاتشروف الأرض وبتغم فضم الله وذكر الله كثير الله لكم تفلحون",
+    "words": [
+      {
+        "word": "فسعوا",
+        "start": 960.025,
+        "end": 960.706,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "إلى",
+        "start": 960.766,
+        "end": 961.226,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ذكر",
+        "start": 961.326,
+        "end": 961.827,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الله",
+        "start": 961.847,
+        "end": 962.647,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "وذر",
+        "start": 962.727,
+        "end": 963.268,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الباير",
+        "start": 963.288,
+        "end": 965.289,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "دالكم",
+        "start": 965.41,
+        "end": 966.21,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "خير",
+        "start": 966.31,
+        "end": 966.811,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "اللهكم",
+        "start": 966.831,
+        "end": 967.591,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "إنكم",
+        "start": 967.671,
+        "end": 969.693,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "تعلمون",
+        "start": 969.833,
+        "end": 972.255,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "فإذا",
+        "start": 972.335,
+        "end": 972.956,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "قبيت",
+        "start": 973.096,
+        "end": 973.817,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الصلاة",
+        "start": 973.857,
+        "end": 974.757,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "فاتشروف",
+        "start": 974.857,
+        "end": 976.559,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الأرض",
+        "start": 976.619,
+        "end": 977.36,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "وبتغم",
+        "start": 977.4,
+        "end": 979.161,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "فضم",
+        "start": 979.241,
+        "end": 979.842,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الله",
+        "start": 979.862,
+        "end": 980.542,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "وذكر",
+        "start": 980.602,
+        "end": 981.303,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الله",
+        "start": 981.363,
+        "end": 982.023,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "كثير",
+        "start": 982.124,
+        "end": 982.744,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الله",
+        "start": 982.784,
+        "end": 983.425,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "لكم",
+        "start": 983.585,
+        "end": 984.125,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "تفلحون",
+        "start": 984.225,
+        "end": 985.987,
+        "speaker": "SPEAKER_00"
+      }
+    ]
+  },
+  {
+    "start": 987.62,
+    "end": 1010.16,
+    "speaker": "SPEAKER_00",
+    "text": "وإذا رأو تجارة لأوله ونفضوا إليها وتراك كقائما، والمعيد الله خير من الله ومن التجارة والله خير رازقين",
+    "words": [
+      {
+        "word": "وإذا",
+        "start": 987.619,
+        "end": 988.2,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "رأو",
+        "start": 988.32,
+        "end": 988.78,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "تجارة",
+        "start": 988.88,
+        "end": 989.941,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "لأوله",
+        "start": 989.961,
+        "end": 990.742,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ونفضوا",
+        "start": 990.782,
+        "end": 994.206,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "إليها",
+        "start": 994.266,
+        "end": 995.167,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "وتراك",
+        "start": 995.247,
+        "end": 996.188,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "كقائما،",
+        "start": 996.288,
+        "end": 999.01,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "والمعيد",
+        "start": 999.13,
+        "end": 1000.972,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الله",
+        "start": 1001.012,
+        "end": 1001.713,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "خير",
+        "start": 1001.833,
+        "end": 1002.394,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "من",
+        "start": 1003.014,
+        "end": 1003.355,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الله",
+        "start": 1003.375,
+        "end": 1004.155,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ومن",
+        "start": 1004.216,
+        "end": 1004.696,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "التجارة",
+        "start": 1004.736,
+        "end": 1006.558,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "والله",
+        "start": 1006.638,
+        "end": 1007.479,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "خير",
+        "start": 1007.599,
+        "end": 1008.099,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "رازقين",
+        "start": 1008.32,
+        "end": 1010.161,
+        "speaker": "SPEAKER_00"
+      }
+    ]
+  },
+  {
+    "start": 1012.09,
+    "end": 1063.45,
+    "speaker": "SPEAKER_00",
+    "text": "بسم الله الرحمن الرحيم إذا جاءك المنافقون قالوا نشهد إنك لرسول الله والله يعلم إنك لرسوله والله يشهد إن المنافقين لكاذبون إتخذوا أي ما نهم جنة فصدوا عن سبيل الله إنهم سأما كانوا يعملون فالك بأنهم أمنوا ثم كثروا فقب على قلوبهم فهم لا يفقهر",
+    "words": [
+      {
+        "word": "بسم",
+        "start": 1012.091,
+        "end": 1012.531,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الله",
+        "start": 1012.591,
+        "end": 1013.312,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الرحمن",
+        "start": 1013.352,
+        "end": 1014.453,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الرحيم",
+        "start": 1014.493,
+        "end": 1016.615,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "إذا",
+        "start": 1016.715,
+        "end": 1017.095,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "جاءك",
+        "start": 1017.235,
+        "end": 1019.417,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "المنافقون",
+        "start": 1019.457,
+        "end": 1020.938,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "قالوا",
+        "start": 1021.058,
+        "end": 1021.719,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "نشهد",
+        "start": 1021.799,
+        "end": 1022.499,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "إنك",
+        "start": 1022.579,
+        "end": 1023.72,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "لرسول",
+        "start": 1023.78,
+        "end": 1024.701,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الله",
+        "start": 1024.741,
+        "end": 1026.602,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "والله",
+        "start": 1026.662,
+        "end": 1027.523,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "يعلم",
+        "start": 1027.603,
+        "end": 1028.324,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "إنك",
+        "start": 1028.404,
+        "end": 1029.525,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "لرسوله",
+        "start": 1029.585,
+        "end": 1031.186,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "والله",
+        "start": 1031.266,
+        "end": 1032.127,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "يشهد",
+        "start": 1032.187,
+        "end": 1032.827,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "إن",
+        "start": 1032.887,
+        "end": 1033.908,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "المنافقين",
+        "start": 1033.928,
+        "end": 1035.369,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "لكاذبون",
+        "start": 1035.429,
+        "end": 1037.291,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "إتخذوا",
+        "start": 1038.011,
+        "end": 1039.733,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "أي",
+        "start": 1039.833,
+        "end": 1040.073,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ما",
+        "start": 1040.173,
+        "end": 1040.433,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "نهم",
+        "start": 1040.493,
+        "end": 1040.974,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "جنة",
+        "start": 1041.074,
+        "end": 1042.815,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "فصدوا",
+        "start": 1042.915,
+        "end": 1043.856,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "عن",
+        "start": 1043.956,
+        "end": 1044.657,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "سبيل",
+        "start": 1044.797,
+        "end": 1045.298,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الله",
+        "start": 1045.318,
+        "end": 1047.279,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "إنهم",
+        "start": 1047.379,
+        "end": 1048.561,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "سأما",
+        "start": 1048.701,
+        "end": 1049.902,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "كانوا",
+        "start": 1050.042,
+        "end": 1050.803,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "يعملون",
+        "start": 1050.883,
+        "end": 1052.704,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "فالك",
+        "start": 1054.065,
+        "end": 1054.706,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "بأنهم",
+        "start": 1054.786,
+        "end": 1056.448,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "أمنوا",
+        "start": 1056.528,
+        "end": 1057.388,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ثم",
+        "start": 1057.489,
+        "end": 1058.389,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "كثروا",
+        "start": 1058.469,
+        "end": 1059.13,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "فقب",
+        "start": 1059.23,
+        "end": 1059.951,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "على",
+        "start": 1060.051,
+        "end": 1060.491,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "قلوبهم",
+        "start": 1060.631,
+        "end": 1061.652,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "فهم",
+        "start": 1061.752,
+        "end": 1062.313,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "لا",
+        "start": 1062.373,
+        "end": 1062.693,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "يفقهر",
+        "start": 1062.753,
+        "end": 1063.454,
+        "speaker": "SPEAKER_00"
+      }
+    ]
+  },
+  {
+    "start": 1065.41,
+    "end": 1091.81,
+    "speaker": "SPEAKER_00",
+    "text": "وإذا رأيتهم تأعجبك أجسامهم وإي يقول تسمع لقولهم كأنهم خشبهم مصن نده يحسبونكم نصيحة النعليهمهم العدوف حدرهم قاتلهم الله أننا يُفقون",
+    "words": [
+      {
+        "word": "وإذا",
+        "start": 1065.41,
+        "end": 1065.97,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "رأيتهم",
+        "start": 1066.071,
+        "end": 1067.071,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "تأعجبك",
+        "start": 1067.171,
+        "end": 1068.092,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "أجسامهم",
+        "start": 1068.152,
+        "end": 1069.873,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "وإي",
+        "start": 1069.973,
+        "end": 1070.874,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "يقول",
+        "start": 1070.954,
+        "end": 1071.895,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "تسمع",
+        "start": 1071.995,
+        "end": 1072.675,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "لقولهم",
+        "start": 1072.735,
+        "end": 1074.337,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "كأنهم",
+        "start": 1074.417,
+        "end": 1075.818,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "خشبهم",
+        "start": 1075.938,
+        "end": 1077.239,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "مصن",
+        "start": 1077.279,
+        "end": 1077.599,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "نده",
+        "start": 1078.199,
+        "end": 1079.32,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "يحسبونكم",
+        "start": 1079.42,
+        "end": 1080.801,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "نصيحة",
+        "start": 1080.881,
+        "end": 1081.982,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "النعليهمهم",
+        "start": 1082.002,
+        "end": 1083.743,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "العدوف",
+        "start": 1083.783,
+        "end": 1084.844,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "حدرهم",
+        "start": 1085.044,
+        "end": 1086.305,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "قاتلهم",
+        "start": 1086.405,
+        "end": 1087.426,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الله",
+        "start": 1087.486,
+        "end": 1088.887,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "أننا",
+        "start": 1088.967,
+        "end": 1090.088,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "يُفقون",
+        "start": 1090.168,
+        "end": 1091.809,
+        "speaker": "SPEAKER_00"
+      }
+    ]
+  },
+  {
+    "start": 1093.05,
+    "end": 1115.19,
+    "speaker": "SPEAKER_00",
+    "text": "وإذا قيل لهم تعالى ويستوفر لكم رسول الله ورؤسهم ورأيتهم يصدون وهم مستوفيرون وهم مستكبرون سواءنا لهم أم سواءنا",
+    "words": [
+      {
+        "word": "وإذا",
+        "start": 1093.05,
+        "end": 1093.611,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "قيل",
+        "start": 1093.771,
+        "end": 1094.211,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "لهم",
+        "start": 1094.271,
+        "end": 1094.712,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "تعالى",
+        "start": 1094.812,
+        "end": 1095.673,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ويستوفر",
+        "start": 1095.693,
+        "end": 1096.794,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "لكم",
+        "start": 1096.854,
+        "end": 1097.354,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "رسول",
+        "start": 1097.414,
+        "end": 1098.175,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الله",
+        "start": 1098.195,
+        "end": 1098.816,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ورؤسهم",
+        "start": 1099.376,
+        "end": 1100.598,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ورأيتهم",
+        "start": 1100.658,
+        "end": 1101.799,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "يصدون",
+        "start": 1101.879,
+        "end": 1102.94,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "وهم",
+        "start": 1103.0,
+        "end": 1103.56,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "مستوفيرون",
+        "start": 1104.061,
+        "end": 1106.663,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "وهم",
+        "start": 1106.764,
+        "end": 1107.384,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "مستكبرون",
+        "start": 1107.464,
+        "end": 1109.947,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "سواءنا",
+        "start": 1110.027,
+        "end": 1111.528,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "لهم",
+        "start": 1111.768,
+        "end": 1112.429,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "أم",
+        "start": 1112.509,
+        "end": 1113.27,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "سواءنا",
+        "start": 1113.37,
+        "end": 1115.192,
+        "speaker": "SPEAKER_00"
+      }
+    ]
+  },
+  {
+    "start": 1122.99,
+    "end": 1146.68,
+    "speaker": "SPEAKER_00",
+    "text": "سواء نعليهم سواء نعليهم أستغفر تلهم أم لم تستغفر لهم سواء نعليهم أستغفر تلهم أم لم تستغفر لهم إن الله",
+    "words": [
+      {
+        "word": "سواء",
+        "start": 1122.993,
+        "end": 1124.715,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "نعليهم",
+        "start": 1124.735,
+        "end": 1125.676,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "سواء",
+        "start": 1126.997,
+        "end": 1128.899,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "نعليهم",
+        "start": 1128.919,
+        "end": 1130.12,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "أستغفر",
+        "start": 1130.2,
+        "end": 1131.702,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "تلهم",
+        "start": 1131.902,
+        "end": 1132.883,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "أم",
+        "start": 1132.963,
+        "end": 1133.383,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "لم",
+        "start": 1133.443,
+        "end": 1133.844,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "تستغفر",
+        "start": 1133.964,
+        "end": 1135.425,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "لهم",
+        "start": 1135.566,
+        "end": 1136.827,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "سواء",
+        "start": 1136.927,
+        "end": 1139.089,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "نعليهم",
+        "start": 1139.109,
+        "end": 1139.97,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "أستغفر",
+        "start": 1140.05,
+        "end": 1140.971,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "تلهم",
+        "start": 1141.191,
+        "end": 1141.852,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "أم",
+        "start": 1141.932,
+        "end": 1142.232,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "لم",
+        "start": 1142.312,
+        "end": 1142.592,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "تستغفر",
+        "start": 1142.673,
+        "end": 1143.774,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "لهم",
+        "start": 1143.874,
+        "end": 1144.835,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "إن",
+        "start": 1144.955,
+        "end": 1146.056,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الله",
+        "start": 1146.076,
+        "end": 1146.677,
+        "speaker": "SPEAKER_00"
+      }
+    ]
+  },
+  {
+    "start": 1150.13,
+    "end": 1162.61,
+    "speaker": "SPEAKER_00",
+    "text": "لين يغفير الله لهم إن الله هل يهد القوم الفاسقين حسبك حسنت بارك الله فيك",
+    "words": [
+      {
+        "word": "لين",
+        "start": 1150.128,
+        "end": 1150.97,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "يغفير",
+        "start": 1151.05,
+        "end": 1151.732,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الله",
+        "start": 1151.772,
+        "end": 1152.473,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "لهم",
+        "start": 1152.553,
+        "end": 1153.495,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "إن",
+        "start": 1153.595,
+        "end": 1154.397,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الله",
+        "start": 1154.437,
+        "end": 1155.119,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "هل",
+        "start": 1155.139,
+        "end": 1155.519,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "يهد",
+        "start": 1155.599,
+        "end": 1156.141,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "القوم",
+        "start": 1156.201,
+        "end": 1156.922,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "الفاسقين",
+        "start": 1156.962,
+        "end": 1159.447,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "حسبك",
+        "start": 1159.568,
+        "end": 1160.71,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "حسنت",
+        "start": 1160.85,
+        "end": 1161.311,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "بارك",
+        "start": 1161.371,
+        "end": 1161.772,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "الله",
+        "start": 1161.792,
+        "end": 1162.213,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "فيك",
+        "start": 1162.313,
+        "end": 1162.614,
+        "speaker": "SPEAKER_01"
+      }
+    ]
+  }
+]
